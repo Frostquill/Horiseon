@@ -23,9 +23,15 @@ THEN I find a concise, descriptive title"
 The following changes were made in an effort to meet the following standards:
 
 -CSS showed repetitive styles for multiple classes, CSS condensed to allow same styles to apply to multiple areas of document
+
 -HTML elements modified to allow semantic flow of document
--Accessibility increased to allow screen reader to operate on navigation bar.-Multiple Comments added in both CSS and HTML document to allow easier viewing of documents, 
+
+-Accessibility increased to allow screen reader to operate on navigation bar.
+
+-Multiple Comments added in both CSS and HTML document to allow easier viewing of documents, 
+
 -HTML Doc. organized according to proper section.
+
 -CSS selectors and properties reorganized in order to organize structure.
 
  Please review and provide feedback neccessary in an effort to further progress on webpage.
